@@ -11,12 +11,15 @@ function mylinkedin(){
 function mygithub(){
   window.open("https://github.com/Kundan1513");
 }
+function myew(){
+  window.open("https://kundan1513.github.io/EduTech-Website/");
+}
+function mytdl(){
+  window.open("https://kundan1513.github.io/To-Do-List/");
+}
+function mywa(){
+  window.open(https://kundan1513.github.io/Weather.github.io/);
+}
 function myjs(){
-  window.open("https://github.com/Kundan1513/JS-CAR-Game");
-}
-function myac(){
-  window.open("https://github.com/Kundan1513/Amazon_Clone");
-}
-function mypdd(){
-  window.open("https://github.com/Kundan1513/Parkinson-s-Disease-Detection");
+  window.open(https://github.com/Kundan1513/JS-Car-Game);
 }

@@ -18,8 +18,8 @@ function mytdl(){
   window.open("https://kundan1513.github.io/To-Do-List/");
 }
 function mywa(){
-  window.open(https://kundan1513.github.io/Weather.github.io/);
+  window.open("https://kundan1513.github.io/Weather.github.io/");
 }
 function myjs(){
-  window.open(https://github.com/Kundan1513/JS-Car-Game);
+  window.open("https://github.com/Kundan1513/JS-Car-Game");
 }
